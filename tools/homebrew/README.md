@@ -1,5 +1,6 @@
 # 使用Homebrew管理MacOS软件包
 
+
 ## 介绍
 [Homebrew](https://brew.sh/index_zh-cn)是MacOS平台的包管理工具，你可以使用它来轻松的管理软件包的安装、卸载、更新等。它会帮助你解决各种依赖和文件路径的问题。
 
