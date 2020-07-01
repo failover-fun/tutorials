@@ -161,10 +161,10 @@ Warning: Failed to set locale category LC_MONETARY to zh_Hans_JP.
   X-Timer: S1586694632.057470,VS0,VE106
   Vary: Accept-Encoding
   Strict-Transport-Security: max-age=900
+2020-04-12 21:30:32 URL:https://www.examples.com/ [5751/5751] -> "/dev/null" [1]
 ```
-#### 2020-04-12 21:30:32 URL:https://www.examples.com/ [5751/5751] -> "/dev/null" [1]
+#### 卸载命令
 
-卸载命令
 卸载也很简单
 
 ```
